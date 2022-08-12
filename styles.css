@@ -167,7 +167,7 @@ ul {
   width: 80%;
   position: relative;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   margin: 0 auto;
 }
 
