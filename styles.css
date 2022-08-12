@@ -177,8 +177,8 @@ ul {
 }
 
 .container .card .face {
-  width: 300px;
-  height: 200px;
+  width: 200px;
+  height: 100px;
   transition: 0.5s;
 }
 
